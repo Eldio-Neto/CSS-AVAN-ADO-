@@ -1,0 +1,12 @@
+button{
+    color: white;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: black;
+    transition: 0.3s;
+    cursor: pointer;
+}
+
+button:hover{
+    transform: scale(1.2);
+}
